@@ -1,0 +1,24 @@
+.divall{
+    width: 370px ;
+    height: 150px ;  
+}
+.div1{
+    position: relative;
+    bottom: 2px;
+    padding-top: auto;
+    margin-top: 2em;
+    border-color: #0088dd;
+}
+div.imsect{
+ padding-bottom: 120px;
+}  
+b[target=_blank] {
+    color: green;
+  }
+
+b[target=_gal]{
+    color: #228B22;
+}  
+b[target=_blu]{
+    color: #4169E1	;
+} 
